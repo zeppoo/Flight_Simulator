@@ -231,6 +231,7 @@ GameObject:
   m_Component:
   - component: {fileID: 716669542845159870}
   - component: {fileID: 2084727121917759889}
+  - component: {fileID: 5457566989355785765}
   m_Layer: 0
   m_Name: Spitfire
   m_TagString: Untagged
@@ -283,6 +284,27 @@ Rigidbody:
   m_Interpolate: 0
   m_Constraints: 0
   m_CollisionDetection: 0
+--- !u!114 &5457566989355785765
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 7567872578103626053}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5922da075c857be40b549a03b4adcc04, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  _debugMode: 0
+  _rb: {fileID: 2084727121917759889}
+  _weight: 0
+  _unit: 0
+  _velocity: {x: 0, y: 0, z: 0}
+  _altitude: 0
+  _airDensity: 0
+  _aeroSurfaces: []
+  _aeroEngines: []
 --- !u!1 &7643501722092244878
 GameObject:
   m_ObjectHideFlags: 0

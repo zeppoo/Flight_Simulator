@@ -1133,6 +1133,18 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: 5457566989355785765, guid: d8c7d3cdb05a1324e9aad84f49dcdd78, type: 3}
+      propertyPath: _debugMode
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5457566989355785765, guid: d8c7d3cdb05a1324e9aad84f49dcdd78, type: 3}
+      propertyPath: _aeroEngines.Array.size
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5457566989355785765, guid: d8c7d3cdb05a1324e9aad84f49dcdd78, type: 3}
+      propertyPath: _aeroSurfaces.Array.size
+      value: 0
+      objectReference: {fileID: 0}
     - target: {fileID: 7567872578103626053, guid: d8c7d3cdb05a1324e9aad84f49dcdd78, type: 3}
       propertyPath: m_Name
       value: Spitfire
